@@ -16,7 +16,7 @@ See [LICENSE](LICENSE).
 
 ## Where to get help
 
-Discord is the preferred method of communication for NERVA
+Discord is the preferred method of communication for NERVA WV
 
 [Discord](https://discord.gg/setcXny)
 
